@@ -26,4 +26,4 @@ Github repo: https://github.com/bakwarteng/social-network-api
 
 ## Video
 
-https://app.screencastify.com/v3/watch/7EtdXjI1JiPF2pM787bo
+https://app.screencastify.com/v3/watch/X2K5urIqyEuK7YL3sBEu
